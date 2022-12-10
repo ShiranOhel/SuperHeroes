@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">SuperHeroes</string>
+
+    <string-array name="super_hero_names">
+        <item>SpiderMan</item>
+        <item>SuperMan</item>
+        <item>IronMan</item>
+        <item>BatMan</item>
+        <item>SpiderMan</item>
+        <item>SuperMan</item>
+        <item>IronMan</item>
+        <item>BatMan</item>
+        <item>SpiderMan</item>
+        <item>SuperMan</item>
+        <item>IronMan</item>
+        <item>BatMan</item>
+    </string-array>
+
+    <string-array name="super_hero_details">
+        <item>Got bitten by a Spider and earned the Spider Senses</item>
+        <item>Very strong man that knows how to fly and shoot laser from his eyes</item>
+        <item>Very rich man with no powers, so he built a super techy suit</item>
+        <item>Another rich man with no powers, who wears black cape and protects Gotham City</item>
+        <item>Got bitten by a Spider and earned the Spider Senses</item>
+        <item>Very strong man that knows how to fly and shoot laser from his eyes</item>
+        <item>Very rich man with no powers, so he built a super techy suit</item>
+        <item>Another rich man with no powers, who wears black cape and protects Gotham City</item>
+        <item>Got bitten by a Spider and earned the Spider Senses</item>
+        <item>Very strong man that knows how to fly and shoot laser from his eyes</item>
+        <item>Very rich man with no powers, so he built a super techy suit</item>
+        <item>Another rich man with no powers, who wears black cape and protects Gotham City</item>
+    </string-array>
+</resources>
